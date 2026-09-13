@@ -8,9 +8,8 @@
 
 ### 🧑 TL;DR — Who Am I?
 
-- 🌟 10Pearls **Shine Internship** Program
 - 🤖 Passionate about **Machine Learning & MLOps** — the part after the notebook, where things actually have to keep running
-- ⚙️ Currently building forecasting systems that ingest, retrain, and redeploy themselves on a schedule, with zero manual babysitting
+- ⚙️ I build forecasting systems that ingest, retrain, and redeploy themselves on a schedule, with zero manual babysitting
 - 🐛 Driven by curiosity and the specific satisfaction of finally finding the one line of logs that explains why a "successful" pipeline run wrote no data anywhere
 - 📊 A data person at heart who looks at any dashboard and immediately wonders, *"okay, but where does this number actually come from, and what happens when that source goes down?"*
 - 🧩 Strong believer that a system isn't done when it works once — it's done when it survives a bad network day, a stale cache, and someone else reading the code six months later
@@ -45,7 +44,7 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="mailto:hassansidd460@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-hassan-siddiqui/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://aqi-predictor-muuoitut5uarhwpuqey8kr.streamlit.app"><img src="https://img.shields.io/badge/Live%20Project-0E7C86?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 </p>
